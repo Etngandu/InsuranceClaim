@@ -1,0 +1,7 @@
+C:\Devsource\ENB.InsuranceAndClaims\Winreport\obj\Debug\net6.0-windows\Winreport.csproj.AssemblyReference.cache
+C:\Devsource\ENB.InsuranceAndClaims\Winreport\obj\Debug\net6.0-windows\Winreport.Form1.resources
+C:\Devsource\ENB.InsuranceAndClaims\Winreport\obj\Debug\net6.0-windows\Winreport.csproj.GenerateResource.cache
+C:\Devsource\ENB.InsuranceAndClaims\Winreport\obj\Debug\net6.0-windows\Winreport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Devsource\ENB.InsuranceAndClaims\Winreport\obj\Debug\net6.0-windows\Winreport.AssemblyInfoInputs.cache
+C:\Devsource\ENB.InsuranceAndClaims\Winreport\obj\Debug\net6.0-windows\Winreport.AssemblyInfo.cs
+C:\Devsource\ENB.InsuranceAndClaims\Winreport\obj\Debug\net6.0-windows\Winreport.csproj.CoreCompileInputs.cache

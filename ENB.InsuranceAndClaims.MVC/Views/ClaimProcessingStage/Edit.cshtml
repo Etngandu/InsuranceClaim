@@ -1,0 +1,72 @@
+﻿@model ENB.InsuranceAndClaims.MVC.Models.CreateAndEditClaimProcessingStage
+@using ENB.InsuranceAndClaims.Entities
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="alert alert-primary" role="alert">
+    <h2><strong>Edit Claim Processing Stage</strong></h2>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <div class="card-header" style="margin:10px 0px 10px 0px;">
+                            <label asp-for="ParentClaimStageId" class="control-label"></label>
+                        </div>
+                        <select id="drpEmpList" class="form-control" asp-for="ParentClaimStageId" asp-items="@(new SelectList(Model.ListStages, "Value", "Text"))">
+                            <option value="0">--Select--</option>
+                        </select>
+                        <span asp-validation-for="ParentClaimStageId" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <div class="card-header" style="margin:10px 0px 10px 0px;">
+                            <label asp-for="Claim_Status_Name" class="control-label"></label>
+                        </div>
+                        <input asp-for="Claim_Status_Name" class="form-control" />
+                        <span asp-validation-for="Claim_Status_Name" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <div class="card-header" style="margin:10px 0px 10px 0px;">
+                            <label asp-for="Claim_Status_Description" class="control-label"></label>
+                        </div>
+                        <input asp-for="Claim_Status_Description" class="form-control" />
+                        <span asp-validation-for="Claim_Status_Description" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <div class="card-header" style="margin:10px 0px 10px 0px;">
+                            <label asp-for="Other_Details" class="control-label"></label>
+                        </div>
+                        <textarea asp-for="Other_Details" type="text" class="form-control" rows="5" autofocus></textarea>
+                        <span asp-validation-for="Other_Details" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="margin-top:10px">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="submit" value="Save" class="btn btn-primary" />
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <a asp-action="Index" class="btn btn-secondary btn-block col-md-4">Back to List</a>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+

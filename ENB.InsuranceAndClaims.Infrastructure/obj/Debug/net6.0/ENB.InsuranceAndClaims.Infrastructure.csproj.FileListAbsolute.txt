@@ -1,0 +1,12 @@
+C:\Devsource\ENB.InsuranceAndClaims\ENB.InsuranceAndClaims.Infrastructure\obj\Debug\net6.0\ENB.InsuranceAndClaims.Infrastructure.csproj.AssemblyReference.cache
+C:\Devsource\ENB.InsuranceAndClaims\ENB.InsuranceAndClaims.Infrastructure\obj\Debug\net6.0\ENB.InsuranceAndClaims.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Devsource\ENB.InsuranceAndClaims\ENB.InsuranceAndClaims.Infrastructure\obj\Debug\net6.0\ENB.InsuranceAndClaims.Infrastructure.AssemblyInfoInputs.cache
+C:\Devsource\ENB.InsuranceAndClaims\ENB.InsuranceAndClaims.Infrastructure\obj\Debug\net6.0\ENB.InsuranceAndClaims.Infrastructure.AssemblyInfo.cs
+C:\Devsource\ENB.InsuranceAndClaims\ENB.InsuranceAndClaims.Infrastructure\obj\Debug\net6.0\ENB.InsuranceAndClaims.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Devsource\ENB.InsuranceAndClaims\ENB.InsuranceAndClaims.Infrastructure\bin\Debug\net6.0\ENB.InsuranceAndClaims.Infrastructure.deps.json
+C:\Devsource\ENB.InsuranceAndClaims\ENB.InsuranceAndClaims.Infrastructure\bin\Debug\net6.0\ENB.InsuranceAndClaims.Infrastructure.dll
+C:\Devsource\ENB.InsuranceAndClaims\ENB.InsuranceAndClaims.Infrastructure\bin\Debug\net6.0\ENB.InsuranceAndClaims.Infrastructure.pdb
+C:\Devsource\ENB.InsuranceAndClaims\ENB.InsuranceAndClaims.Infrastructure\obj\Debug\net6.0\ENB.InsuranceAndClaims.Infrastructure.dll
+C:\Devsource\ENB.InsuranceAndClaims\ENB.InsuranceAndClaims.Infrastructure\obj\Debug\net6.0\refint\ENB.InsuranceAndClaims.Infrastructure.dll
+C:\Devsource\ENB.InsuranceAndClaims\ENB.InsuranceAndClaims.Infrastructure\obj\Debug\net6.0\ENB.InsuranceAndClaims.Infrastructure.pdb
+C:\Devsource\ENB.InsuranceAndClaims\ENB.InsuranceAndClaims.Infrastructure\obj\Debug\net6.0\ref\ENB.InsuranceAndClaims.Infrastructure.dll

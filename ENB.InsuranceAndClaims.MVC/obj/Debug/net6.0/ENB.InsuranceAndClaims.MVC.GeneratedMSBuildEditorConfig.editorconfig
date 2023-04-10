@@ -1,0 +1,261 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ENB.InsuranceAndClaims.MVC
+build_property.RootNamespace = ENB.InsuranceAndClaims.MVC
+build_property.ProjectDir = C:\Devsource\ENB.InsuranceAndClaims\ENB.InsuranceAndClaims.MVC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Devsource\ENB.InsuranceAndClaims\ENB.InsuranceAndClaims.MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Addresses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Addresses/Redirect.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc2VzXFJlZGlyZWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimDocument/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1Eb2N1bWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimDocument/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1Eb2N1bWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimDocument/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1Eb2N1bWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimDocument/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1Eb2N1bWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimDocument/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1Eb2N1bWVudFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimDocument/_Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1Eb2N1bWVudFxfRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimHeader/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1IZWFkZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimHeader/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1IZWFkZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimHeader/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1IZWFkZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimHeader/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1IZWFkZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimHeader/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1IZWFkZXJcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimHeader/_Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1IZWFkZXJcX0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimProcessingStage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1Qcm9jZXNzaW5nU3RhZ2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimProcessingStage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1Qcm9jZXNzaW5nU3RhZ2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimProcessingStage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1Qcm9jZXNzaW5nU3RhZ2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimProcessingStage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1Qcm9jZXNzaW5nU3RhZ2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimProcessingStage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1Qcm9jZXNzaW5nU3RhZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimProcessingStage/_Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1Qcm9jZXNzaW5nU3RhZ2VcX0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimProcessing/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1Qcm9jZXNzaW5nXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimProcessing/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1Qcm9jZXNzaW5nXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimProcessing/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1Qcm9jZXNzaW5nXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimProcessing/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1Qcm9jZXNzaW5nXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimProcessing/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1Qcm9jZXNzaW5nXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/ClaimProcessing/_Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1Qcm9jZXNzaW5nXF9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Customer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Customer/_Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcX0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/PolicyType/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWN5VHlwZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/PolicyType/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWN5VHlwZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/PolicyType/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWN5VHlwZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/PolicyType/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWN5VHlwZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/PolicyType/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWN5VHlwZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/PolicyType/_Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWN5VHlwZVxfRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Policy/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWN5XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Policy/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWN5XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Policy/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWN5XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Policy/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWN5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Policy/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWN5XExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Policy/_Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWN5XF9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Shared/_AuthLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdXRoTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Staff/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Staff/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Staff/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Staff/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Staff/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Staff/_Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcX0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.InsuranceAndClaims/ENB.InsuranceAndClaims.MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-idg68krdk6

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ENB.InsuranceAndClaims.MVC.props" />
+</Project>
